@@ -11,8 +11,8 @@ RUN
 ```
 git clone https://github.com/koko004/PACII/
 cd PACII
-chmod +x PACII/pacii.sh
-./AINT/pacii.sh
+chmod +x pacii.sh
+./pacii.sh
 ```
 
 
