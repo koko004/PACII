@@ -1,7 +1,7 @@
 # PACII
 Proxmox Automated Cloud Init Script
 
-
+![logo](pacii.png)
 
 1. Create Template from download link Cloud-Init Image
 2. Create VMs from template
