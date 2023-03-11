@@ -1,9 +1,12 @@
 # PACII
 Proxmox Automated Cloud Init Script
-
 ![logo](screenshot.png)
 
 ## Cloud Init Script
+Ubuntu: https://cloud-images.ubuntu.com/
+
+Debian: https://cloud.debian.org/images/cloud/
+
 ```
 git clone https://github.com/koko004/PACII/
 cd PACII
